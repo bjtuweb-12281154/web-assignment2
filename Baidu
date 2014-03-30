@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<title>新建网页</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="布尔教育 xhtml 12小时入门教程" />
+</head>
+<style>
+#right
+{
+	margin-left: 1450px;
+	font-size: 70%;
+	color:#4A4AFF;
+}
+
+#logo
+{
+	margin-left: 700px;
+	margin-top: 12px;
+}
+#type
+{
+	margin-left: 600px;
+	margin-top: 18px;
+	font-size: 98%;
+	color: #4A4AFF;
+	font-style: "SimSun"
+}
+#type2
+{
+	margin-left: 90px;
+	font-size: 98%;
+	color: #4A4AFF;
+}
+#search
+{
+	margin-left: 548px;
+}
+#foot
+{
+	margin-top: 380px;
+	margin-left: 500px;
+}
+#set
+{
+	margin-left: 200px;
+	font-size: 70%;
+	color:#4A4AFF
+}
+#bottom
+{
+	margin-left: 120px;
+	font-size: 70%;
+	color: #4A4AFF;
+}
+a:link,a:visited
+{
+	text-decoration: none;
+	color:#4A4AFF; 
+}
+a:hover
+{
+	text-decoration: underline;
+	color: #4A4AFF ;
+
+}
+
+</style>
+    <body>
+    	<div id = "right">
+    	<p>搜索设置 | 登录 注册</p>	
+    	</div>
+    	<div id = middle>
+    		<img id = "logo" src="C:\Users\samsung\Desktop\百度.png" width="180" ><br /><br />
+    		<p id = "type">
+    		<a href="C:\Users\samsung\Desktop\baidu.html">新闻</a>&nbsp;  
+    		<a href="C:\Users\samsung\Desktop\baidu.html">网页</a>&nbsp;
+     		<a href="C:\Users\samsung\Desktop\baidu.html">贴吧</a>&nbsp;  
+    		<a href="C:\Users\samsung\Desktop\baidu.html">知道</a>&nbsp;  
+    		<a href="C:\Users\samsung\Desktop\baidu.html">音乐</a>&nbsp;
+    		<a href="C:\Users\samsung\Desktop\baidu.html">图片</a>&nbsp;
+    		<a href="C:\Users\samsung\Desktop\baidu.html">视频</a>&nbsp;
+    		<a href="C:\Users\samsung\Desktop\baidu.html">地图</a>&nbsp;
+    		</a>
+    		</p>
+    	</div>
+    	<div id = "search">
+    		<form>
+
+    			<input type="text" size = 65 style = "height:29px" />
+    			<input type="submit" style = "height:30px" value="百度一下"/>
+    		</form>
+    		<br />
+    		<p id = "type2">
+    		<a href="C:\Users\samsung\Desktop\baidu.html">百科</a>&nbsp;
+    		<a href="C:\Users\samsung\Desktop\baidu.html">文库</a>&nbsp;
+    		<a href="C:\Users\samsung\Desktop\baidu.html">hao123 | 更多>></a>&nbsp;
+    		</p>
+    	</div>
+    	<div id = "foot">
+    		<p id = "set">把百度设为主页  安装百度卫士</p>
+			<p id = "bottom">加入百度推广 | 搜索风云榜 | 关于百度 | About Baidu</p>
+			<img src="C:\Users\samsung\Desktop\bottom.jpg" style="margin-left: 120px" />
+    		
+    	</div>
+    </body>
+</html>
